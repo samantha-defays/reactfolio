@@ -1,0 +1,21 @@
+{
+    "navigation": {
+        "home": "Accueil",
+        "aboutMe": "À propos",
+        "contact": "Contact"
+    },
+    "home": {
+        "title": "Bienvenue sur mon Portfolio",
+        "subtitle": "Je suis développeuse passionnée..."
+    },
+    "aboutMe": {
+        "title": "À propos de moi",
+        "age": "J'ai {{age}} ans",
+        "reconversion": "J'ai fait une reconversion professionnelle il y a {{years}} an{{plural}} pour devenir développeuse",
+        "description": "Mon parcours, mes compétences..."
+    },
+    "contact": {
+        "title": "Contact",
+        "description": "Contactez-moi pour vos projets..."
+    }
+}

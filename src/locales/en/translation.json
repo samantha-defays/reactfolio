@@ -1,0 +1,21 @@
+{
+    "navigation": {
+        "home": "Home",
+        "aboutMe": "About Me",
+        "contact": "Contact"
+    },
+    "home": {
+        "title": "Welcome to my Portfolio",
+        "subtitle": "I'm a passionate developer..."
+    },
+    "aboutMe": {
+        "title": "About Me",
+        "age": "I'm {{age}} years old",
+        "reconversion": "I made a career change {{years}} year{{plural}} ago to become a developer",
+        "description": "My background, my skills..."
+    },
+    "contact": {
+        "title": "Contact",
+        "description": "Contact me for your projects..."
+    }
+}
