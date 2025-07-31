@@ -6,13 +6,12 @@
     },
     "home": {
         "title": "Welcome to my Portfolio",
-        "subtitle": "I'm a passionate developer..."
+        "subtitle": "Front-end web developer"
     },
     "aboutMe": {
-        "title": "About Me",
-        "age": "I'm {{age}} years old",
-        "reconversion": "I made a career change {{years}} year{{plural}} ago to become a developer",
-        "description": "My background, my skills..."
+        "title": "About me",
+        "description": "I am a {{age}} years old woman, I'm always smiling and I like to laugh a lot, I care a lot about having a good relationship with my coworkers. Hearing laughter in the office might not be so rare. But I don't put serious aside, I can work hard in an easy-going and light mood",
+        "reconversion": "I have changed careers, and worked in web development for {{years}} years. I have worked mainly in real estate, but I am not opposed to changing fields."
     },
     "contact": {
         "title": "Contact",

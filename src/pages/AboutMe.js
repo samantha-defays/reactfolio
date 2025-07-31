@@ -11,14 +11,13 @@ function AboutMe() {
     return (
         <div>
             <h1>{t('aboutMe.title')}</h1>
-            <p>{t('aboutMe.age', { age })}</p>
+            <p>{t('aboutMe.description', { age: age })}</p>
             <p>
                 {t('aboutMe.reconversion', {
                     years: yearsInDev,
                     plural: yearsInDev > 1 ? 's' : ''
                 })}
             </p>
-            <p>{t('aboutMe.description')}</p>
         </div>
     );
 }

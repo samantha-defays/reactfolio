@@ -6,13 +6,12 @@
     },
     "home": {
         "title": "Bienvenue sur mon Portfolio",
-        "subtitle": "Je suis développeuse passionnée..."
+        "subtitle": "Developpeuse web front-end"
     },
     "aboutMe": {
         "title": "À propos de moi",
-        "age": "J'ai {{age}} ans",
-        "reconversion": "J'ai fait une reconversion professionnelle il y a {{years}} an{{plural}} pour devenir développeuse",
-        "description": "Mon parcours, mes compétences..."
+        "description": "Je suis une femme de {{age}} ans, souriante et j’aime beaucoup rire, j’apporte beaucoup d’importance à l’entente avec mes collègues, et il ne sera pas rare d’entendre un éclat de rire de ma part. Mais le sérieux du travail ne sera pas délaissé pour autant. On peut travailler dans la bonne humeur, c'est ma philosophie.",
+        "reconversion": "Je suis issue d'une reconversion, et travaille désormais dans le développement depuis {{years}} an{{plural}}. J'ai travaillé principalement dans l'immobilier, mais je reste ouverte à tout autre milieu."
     },
     "contact": {
         "title": "Contact",
